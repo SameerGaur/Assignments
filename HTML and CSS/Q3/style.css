@@ -1,0 +1,82 @@
+
+    
+    body,html{
+        height: 100%;
+        
+    }
+    .parallax {
+        background-image:  url('https://www.azquotes.com/picture-quotes/quote-i-m-still-fly-i-m-sky-high-and-i-dare-anybody-to-try-and-cut-my-wings-drake-55-42-38.jpg');
+        height: 100%;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 60%;
+    }
+    .section-one{
+        background-color: rgb(187, 181, 181);
+        font-family: Helvetica;
+        height: 50%;
+        padding-top: 50px;
+        text-indent: 45%;
+        font-size: 20pt;
+        
+    }
+    .parallax1 {
+        background-image:  url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLw3Kv2q2JY8SpVlD5_HlDquQynv_EzcsqxA&usqp=CAU');
+        height: 60%;
+        width: 100%;
+       
+        
+    }
+    .parallax2 {
+        background-image:  url('https://newsimg.giznext.com/mobile/production/news/wp-content/uploads/2021/08/18101946/wallpaper5-735x400.jpg');
+        height: 60%;
+        width: 100%;
+       
+        
+    }
+    .parallax3 {
+        background-image:  url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcSAZLxbiIFbqAfs7UjeLi8QKjWxidVNZOCw&usqp=CAU');
+        height: 60%;
+        width: 100%;
+       
+        
+    }
+    .section-text{
+        font-size: medium;
+        text-indent: 10%;
+        padding: 20px 10px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .section-two{
+        background-color: #004E7C;
+        color:white;
+        font-family: Helvetica;
+        height: 50%;
+        padding-top: 50px;
+        text-indent: 45%;
+        font-size: 20pt;
+        
+    }
+    .section-three{
+        background-color: #4D774E;
+        color:white;
+        font-family: Helvetica;
+        height: 50%;
+        padding-top: 50px;
+        text-indent: 45%;
+        font-size: 20pt;
+        
+    }
+    .section-four{
+        background-color:  #A3BCB6;
+        color:white;
+        font-family: Helvetica;
+        height: 50%;
+        padding-top: 50px;
+        text-indent: 45%;
+        font-size: 20pt;
+        
+    }
